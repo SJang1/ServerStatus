@@ -38,13 +38,7 @@ sites:
     
   - name: upload.sjang.xyz - ping
     url: https://upload.sjang.xyz/ping
-    
-  - name: Kakao Remaining Vaccine reservation
-    url: https://vaccine.kakao.com/api/v1/reservation
-    expectedStatusCodes:
-      - 200
-      - 401
-      - 500
+
     
 
 status-website:
